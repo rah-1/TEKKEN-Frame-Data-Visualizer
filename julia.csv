@@ -1,0 +1,137 @@
+Command,Hit level,Damage,Active frame,Block frame,Hit frame,Counter hit frame,GIF,Notes
+1,H,7,10,=+1,=+8,=+8,-,
+1+2,M,14,18,-5,=+1,=+6,-,Floor Break.
+"1+2,4","M,H","14,12",18,-12,-1,=+4,-,"NC, Jails."
+"1+2,4,4","M,H,M","14,12,20",18,-20,KND,KND,-,"(1+2),4,4 is NCC."
+"1+2,4,b,f+1+2","M,H,M","14,12,25",18,-10,KND,KND,-,"(1+2),4,b,f+1+2 is NCC, Wall Break/Splat."
+1+3+4,-,,-,-,-,-,-,Taunt.
+1+4,"M,L","12,21",18,-26,KND,Launch,-,NC.
+"1+4,D",M,12,18,-18,-7,-7,-,
+"1,1","H,M","7,12",10,-9,=+2,=+2s,-,NC.
+"1,1,1","H,M,M","7,12,20",10,-14,KND,KND,-,"NCC, Wall Break/Splat."
+"1,1,2","H,M,M","7,12,20",10,-9,KND,Launch,-,Wall Break/Splat.
+"1,2","H,H","7,8",10,-1,=+5,=+5,-,"NC, Jails."
+"1,2,1","H,H,M","7,8,10",10,-13,=+3,=+3,-,
+"1,2,1,1","H,H,M,L","7,8,10,20",10,-14,KND,KND,-,
+"1,2,3 (or 1,2,4)","H,H","7,8",10,=+1,=+7,=+7,-,Enters Evasive Spin (CES).
+2,H,10,10,-2,=+7,=+7,-,
+2+3+4,-,,-,-,-,-,-,Welcome.
+"2,B (only during front hit)",H,10,12,-8,=+5,=+5,-,Spin Behind (SB).
+3,H,17,14,-14,KND,KND,-,Wall Break/Splat
+3+4 (or u+3+4),-,,?,-,-,-,-,Evasive Spin (CES).
+4,H,15,11,-12,-3,Launch,-,
+"4,4","H,L","15,12",11,-16,-2,-2,-,
+"4,4,1","H,L,M","15,12,21",11,-14,Launch,Launch,-,"(4),4,1 is NCC, Wall Splat."
+"4,4,4","H,L,H","15,12,23",11,-6,KND,KND,-,"(4),4,4 is NCC, Wall Break/Splat."
+"4,4,[1,2]","H,L,M","15,12,20",11,-9,KND,Launch,-,Wall Break/Splat.
+"4,4,d+4","H,L,L","15,12,10",11,-19,-8,-8,-,"(4),4,d+4 is NCC."
+4~2,"L,H","7,5",15,-12,-4,=+1,-,
+"4~2,1","L,H,M","7,5,21",15,-16,KND,KND,-,"NCC, Wall Break/Splat."
+b+1,M,18,18,-9,=+5s,Launch,-,Floor Break.
+b+1+2,M,23,21,-13,Launch,Launch,-,
+b+2,H,14,13,-10,=+1,=+1,-,
+"b+2,3","H,H","14,15",13,-12,=+4,=+4,-,NC.
+"b+2,3,1+2","H,H,M","14,15,21",13,-13,KND,KND,-,"(b+2),3,1+2 is NCC, Wall Break/Splat."
+b+3,L,17,27,-13,=+4,Launch,-,
+"b+3,4","L,L","17,10",27,-8,Launch,Launch,-,
+b+4,H,20,18,=+1,Launch,Launch,-,"Tail Spin, Homing."
+CES 1,H,14,15,=+0,=+6,Launch,-,NOTE: X(~Y) Y is startup when doing raw CES else add X to the frames given by moves entering CES.
+CES 1+2,M,18,19,-9,=+5s,Launch,-,Floor Break.
+CES 2,M,20,18,-9,=+11,=+11,-,"Tail Spin, Wall Break/Splat."
+CES 3,M,10,18,-17,-7,-7,-,
+"CES 3,1+2","M,M","10,27",18,-13,KND,KND,-,"NC, Wall Break/Splat."
+CES 4,L,14,20,-26,=+6,=+6,-,
+"CES 4,1+2","L,M","14,18",20,-16,KND,KND,-,"NC, Wall Break."
+d+1,SM,5,10,-5,=+6,=+6,-,
+d+1+2,M,27,16,-14,KND,KND,-,Wall Break/Splat.
+d+2,SM,8,11,-4,=+7,=+7,-,
+"d+2,3","SM,M","8,13",11,-10,=+1,=+1,-,NCC.
+d+3,L,10,13,-12,-1,=+4s,-,
+d+4,L,12,20,-16,-2,-2,-,
+"d+4,1","L,M","12,21",20,-14,Launch,Launch,-,"NCC, Wall Splat."
+"d+4,4","L,H","12,23",20,-6,KND,KND,-,"NCC, Wall Break/Splat."
+"d+4,[1,2]","L,M","12,20",20,-9,KND,Launch,-,Wall Break/Splat.
+"d+4,d+4","L,L","12,10",20,-19,-8,-8,-,NCC.
+"d,d/f+1",M,14,11,-6,=+0,=+5,-,
+"d,d/f+1,2","M,M","14,25",11,-14,KND,KND,-,"NCC, Wall Break/Splat."
+"d,d/f+1,3 (or d,d/f+1,4)",M,14,11,=+2,=+8,>+8,-,Enters Evasive Spin (CES).
+d/b+1,M,17,19,-12,=+5,Launch,-,
+d/b+2,M,13,15,-10,=+1,=+1,-,
+"d/b+2,1","M,L","13,7",15,-11,-4,=+0,-,NCC.
+d/b+3,L,12,16,-17,-6,-6,-,
+d/b+4,L,11,15,-12,-1,=+4,-,
+"d/b+4,1","L,M","11,21",15,-10,KND,KND,-,"NCC, Wall Break/Splat."
+d/f+1,M,13,14,-5,=+1,=+1,-,Floor Break.
+d/f+2,M,8,15,-9,=+2,=+2,-,
+"d/f+2,1","M,M","8,12",15,-18,Launch,Launch,-,"NC, Wall Splat."
+"d/f+2,3",M,8,15,-21,-10,-10,-,
+"d/f+2,3~1","M,M","8,24",15,-3,KND,KND,-,"NC, Wall Break/Splat."
+"d/f+2,3~2","M,M","8,20",15,-8,KND,Launch,-,
+"d/f+2,3~4","M,L","8,17",15,-13,=+2,Launch,-,
+"d/f+2,3~u/f+3+4","M,M,H","8,8,12",15,-16,Launch,Launch,-,
+"d/f+2,4","M,H","8,18",15,-6,=+5,=+5,-,NC.
+d/f+3,M,14,13,-7,=+4,=+4,-,
+d/f+3+4,"SM,M","10,20",17,-7,=+9,=+9,-,NC.
+"d/f+3,1+2","M,M","14,18",13,-13,KND,KND,-,"NC, Wall Break/Splat."
+d/f+4,M,14,14,-10,=+1,=+1,-,
+"d/f+4,2","M,M","14,10",14,-13,-2,-2,-,NCC.
+"d/f+4,2,1","M,M,M","14,10,25",14,-14,KND,KND,-,"NCC, Wall Break/Splat."
+"d/f+4,2,3","M,M,H","14,10,18",14,-5,KND,KND,-,"NCC, Tail Spin, Wall Break/Splat."
+"d/f+4,2,b,F+1","M,M,M","14,10,30",14,-14,KND,KND,-,"NCC, Wall Break/Splat."
+During Rage d/f+1+2,M,55,20,-22,KND,KND,-,Rage Art.
+During Rage f+2+3,"M,M",44,15,=+2,KND,KND,-,"Rage Drive, Wall Break/Splat."
+f+1+2,M,25,18,-14,KND,KND,-,"Power Crush, Wall Bounce."
+"f+1+4 (,B to cancel)",!,30,67,Launch,Launch,Launch,-,"Unblockable, Wall Splat."
+f+2,H,10,12,-2,=+7,=+7,-,
+"f+2,1","H,H","10,14",12,-1,=+5,=+10,-,NC.
+"f+2,1,2","H,H,M","10,14,18",12,-10,=+2,Launch,-,"(f+2),1,2 is NCC."
+"f+2,1,3","H,H","10,14",12,-23?,-17?,-12?,-,
+"f+2,1,3~1","H,H,H","10,14,24",12,-3,KND,KND,-,"(f+2),1,3~1 is NCC."
+"f+2,1,3~2","H,H,M","10,14,20",12,-8,KND,Launch,-,
+"f+2,1,3~4","H,H,L","10,14,17",12,-13,=+2,Launch,-,
+"f+2,1,3~u/f+3+4","H,H,M,H","10,14,8,12",12,-16,Launch,Launch,-,
+"f+2,4","H,M","10,16",12,-8,=+5,KND,-,NC.
+f+3,-,,?,-,-,-,-,
+f+3~1,H,24,12,-3,KND,KND,-,Wall Break/Splat.
+f+3~2,M,20,16,-8,KND,Launch,-,Wall Break/Splat.
+f+3~4,L,17,18,-13,=+2,Launch,-,
+f+3~u/f+3+4,"M,H","8,12",24,-16,Launch,Launch,-,Wall Splat.
+f+4,M,13,15,-10,=+3,=+3,-,
+"f+4,1","M,M","13,23",15,-14,KND,KND,-,"NC, Wall Break/Splat."
+"f,F+1",M,11,11,-2,=+4,=+7,-,
+"f,F+1+2",M,27,13,-7,KND,KND,-,Wall Bounce.
+"f,F+1,4","M,H","11,17",11,-4,=+15g,Launch,-,"NC, Tail Spin, Wall Break/Splat."
+"f,F+2",M,23,18,-14,KND,KND,-,Floor Break.
+"f,F+3",M,21,12,-14,KND,KND,-,Wall Break/Splat.
+"f,f,f+1 (or WR+1)",H,28,12,=+4,KND,KND,-,Wall Break/Splat.
+"f,f,f+2 (or WR+2)",M,15,14,-14,=+1,=+1,-,
+"f,f,f+2,1 (or WR+2,1)","M,M","15,21",14,-13,KND,KND,-,"NC, Wall Break/Splat."
+"f,f,f+3 (or WR+3)",M,30,23,=+0,KND,KND,-,Wall Break/Splat.
+FC d/f+2,M,25,12,-14,KND,KND,-,Wall Break/Splat.
+FC d/f+4,L,9,16,-14,-3,-3,-,
+"FC d/f+4,3","L,M","9,23",16,-17,KND,KND,-,NC.
+qcf+2,H,15,15,-8,Launch,Launch,-,Wall Splat.
+Spin Behind 1+2,H,20,12,-,=+3,=+3,-,
+SS+2,M,15,18,-5,=+3,=+28g,-,
+SS+3,M,23,20,-6,KND,KND,-,Wall Break/Splat.
+SS+3+4,"M,M","10,10",22,-21,Launch,Launch,-,
+u/f+1,M,17,15,-8,=+4,Launch,-,
+u/f+2 (or u+2 or u/b+2),H,17,15,-12,=+9,=+9,-,
+u/f+3,M,18,15,-16,KND,KND,-,Wall Break/Splat.
+u/f+3+4,M,30,35,-7~-13,Launch,Launch,-,
+u/f+4,M,8,16,-8,=+4,=+4,-,
+"u/f+4,3","M,M","8,8",16,-13,Launch,Launch,-,Wall Splat.
+"u/f+4,3,1","M,M,M","8,8,25",16,-6,KND,KND,-,Wall Break/Splat.
+"u/f,n,4",M,25,23,-18,Launch,Launch,-,
+"U/F,n,4",M,25,23,-8,=+3,=+3,-,
+WS+1,M,15,15,-13,Launch,Launch,-,Wall Splat.
+WS+2,M,11,18,-17,-9,-6,-,
+"WS+2,1","M,H","11,20",18,-4,KND,Launch,-,"NC, Tail Spin."
+"WS+2,2","M,M","11,16",18,-16,KND,KND,-,"NC, Floor Break."
+"WS+2,2,1+2","M,M,M","11,16,17",18,-16,KND,KND,-,"NC, Wall Break."
+"WS+2,3 (or WS+2,4)",M,11,18,=+2,>+8,>+8,-,Enters Evasive Spin (CES).
+"WS+2,hold 2","M,M","11,23",18,=+4,KND,KND,-,"NCC, Floor Break."
+"WS+2,hold 2,1+2","M,M,M","11,23,17",18,-16,KND,KND,-,"NCC, Wall Break."
+WS+3,M,21,14,-7,=+15g,KND,-,"Tail Spin, Homing, Wall Break/Splat."
+WS+4,M,21,11,-15,KND,KND,-,
+"WS+[1,2]",M,20,20,-9,KND,Launch,-,Wall Break/Splat.
