@@ -11,6 +11,7 @@ To use the TEKKEN Frame Data Visualizer interface, you will need to download all
 Make sure all files are located in the same folder. Then, execute ```main.py```.
 
 *** __Navigation__ ***  
+To maximize the interface's use, ensure you follow the steps below.
 - You will need to first choose your character and the opponent's character from the dropdown menus.
 - To find the properties of a given move, find and click the notation of the move in the moveset listbox.
 - Adjust your character's *frame advantage* accordingly using the slider at the top of the interface.
