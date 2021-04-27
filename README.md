@@ -11,8 +11,8 @@ by using an interactive GUI that presents the necessary information in a user-fr
 *** __Setup__ ***  
 To use the TEKKEN Frame Data Visualizer interface, you will need to download all files in the repository.
 Make sure all files are located in the same folder. Then, execute ```main.py```.
-  <br/>
-  <br/>
+<br/>  
+
 *** __Navigation__ ***  
 To maximize the interface's use, ensure you follow the steps below.
 - You will need to first choose your character and the opponent's character from the dropdown menus.
