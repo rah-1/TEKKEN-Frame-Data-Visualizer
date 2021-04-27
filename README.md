@@ -21,7 +21,7 @@ Make sure all files are located in the same folder. Then, execute ```main.py```.
   
 *** __Additional Resources__ ***  
 Check out these videos for a more in-depth explanation on TEKKEN fundamentals and frame data:  
-General Beginner's Guide: https://www.youtube.com/watch?v=K-WhR09Q6TU  
-Frame Data Explained: https://www.youtube.com/watch?v=Wtfdx3sZE18  
-Movement Tips and Strategies: https://www.youtube.com/watch?v=Lbm5CasGsMQ  
-The "Korean Backdash": https://www.youtube.com/watch?v=dzIfubaQLyk  
+- General Beginner's Guide: https://www.youtube.com/watch?v=K-WhR09Q6TU  
+- Frame Data Explained: https://www.youtube.com/watch?v=Wtfdx3sZE18  
+- Movement Tips and Strategies: https://www.youtube.com/watch?v=Lbm5CasGsMQ  
+- The "Korean Backdash": https://www.youtube.com/watch?v=dzIfubaQLyk  
