@@ -19,7 +19,7 @@ Make sure all files are located in the same folder. Then, execute ```main.py```.
 - For more immersion, you can modify the sort method from *heap sort*[default: O(nlogn)] to *insertion sort*[O(n^2)]
   by changing the true/false values of the respective boolean variables in the first few lines of ```main.py```.  
   
-*** __Additional Resources__ **  
+*** __Additional Resources__ ***  
 Check out these videos for a more in-depth explanation on TEKKEN fundamentals and frame data:  
 General Beginner's Guide: https://www.youtube.com/watch?v=K-WhR09Q6TU  
 Frame Data Explained: https://www.youtube.com/watch?v=Wtfdx3sZE18  
