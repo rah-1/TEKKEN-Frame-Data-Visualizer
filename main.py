@@ -103,6 +103,16 @@ my_char.append(law.name)
 char_dict[law.name] = law
 file_reader(law, "law.csv")
 
+lee = Character("Lee")
+my_char.append(lee.name)
+char_dict[lee.name] = lee
+file_reader(lee, "lee.csv")
+
+nina = Character("Nina")
+my_char.append(nina.name)
+char_dict[nina.name] = nina
+file_reader(nina, "lee.csv")
+
 paul = Character("Paul")
 my_char.append(paul.name)
 char_dict[paul.name] = paul
@@ -112,6 +122,11 @@ steve = Character("Steve")
 my_char.append(steve.name)
 char_dict[steve.name] = steve
 file_reader(steve, "steve.csv")
+
+yoshimitsu = Character("Yoshimitsu")
+my_char.append(yoshimitsu.name)
+char_dict[yoshimitsu.name] = yoshimitsu
+file_reader(yoshimitsu, "yoshimitsu.csv")
 
 
 root = Tk()
