@@ -30,5 +30,6 @@ Check out these videos for a more in-depth explanation on TEKKEN fundamentals an
 - Frame Data Explained: https://www.youtube.com/watch?v=Wtfdx3sZE18  
 - Movement Tips and Strategies: https://www.youtube.com/watch?v=Lbm5CasGsMQ  
 - The "Korean Backdash": https://www.youtube.com/watch?v=dzIfubaQLyk  
+ <br/>
 All data comes from the following source:  
 - https://tekkenframes.qatarfgc.com/
