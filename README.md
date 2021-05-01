@@ -1,5 +1,5 @@
 # TEKKEN-Frame-Data-Visualizer
-DSA Project 3  
+1st Place Winner for Best Project in DSA (Spring 2021)
 [YouTube] https://youtu.be/gzzWb-8H6vg  
 <br/>
   
@@ -31,5 +31,5 @@ Check out these videos for a more in-depth explanation on TEKKEN fundamentals an
 - Movement Tips and Strategies: https://www.youtube.com/watch?v=Lbm5CasGsMQ  
 - The "Korean Backdash": https://www.youtube.com/watch?v=dzIfubaQLyk  
  <br/>
-All data comes from the following source:  
+All data comes from the following resource:  
  https://tekkenframes.qatarfgc.com/
