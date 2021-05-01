@@ -1,6 +1,6 @@
 # TEKKEN-Frame-Data-Visualizer
 DSA Project 3  
-[YouTube]https://youtu.be/gzzWb-8H6vg  
+[YouTube] https://youtu.be/gzzWb-8H6vg  
 <br/>
   
 *** __Goal__ ***  
