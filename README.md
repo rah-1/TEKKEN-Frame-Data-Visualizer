@@ -24,7 +24,7 @@ To maximize the interface's use, ensure you follow the steps below.
   by changing the true/false values of the respective boolean variables in the first few lines of ```main.py```.  
     <br/>
     
-*** __Additional Resources__ ***
+*** __Additional Resources__ ***  
 Check out these videos for a more in-depth explanation on TEKKEN fundamentals and frame data:  
 - General Beginner's Guide: https://www.youtube.com/watch?v=K-WhR09Q6TU  
 - Frame Data Explained: https://www.youtube.com/watch?v=Wtfdx3sZE18  
