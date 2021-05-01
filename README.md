@@ -32,4 +32,4 @@ Check out these videos for a more in-depth explanation on TEKKEN fundamentals an
 - The "Korean Backdash": https://www.youtube.com/watch?v=dzIfubaQLyk  
  <br/>
 All data comes from the following source:  
-- https://tekkenframes.qatarfgc.com/
+ https://tekkenframes.qatarfgc.com/
