@@ -1,4 +1,4 @@
-# TEKKEN-7-Frame-Data-Visualizer
+# TEKKEN 7 Frame Data Visualizer
 1st Place Winner for Best Project in DSA (Spring 2021)  
 [YouTube] https://youtu.be/gzzWb-8H6vg  
 <br/>
