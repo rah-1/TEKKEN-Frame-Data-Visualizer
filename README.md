@@ -20,7 +20,7 @@ To maximize the interface's use, ensure you follow the steps below.
 - Adjust your character's *frame advantage* accordingly using the slider at the top of the interface.
 - Press the respective buttons to calculate the subset of your opponents moves that your selected move
   *wins against*, *trades with*, or *loses to*, sorted ascendingly in order of *startup frames*.
-- For more immersion, you can modify the sort method from *heap sort*[default: O(nlogn)] to *insertion sort*[O(n^2)]
+- For more immersion, you can modify the sort method from the default *heap sort* [O(nlogn)] to *insertion sort* [O(n<sup>2</sup>)]
   by changing the true/false values of the respective boolean variables in the first few lines of ```main.py```.  
     <br/>
     
