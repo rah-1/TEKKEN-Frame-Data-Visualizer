@@ -153,6 +153,7 @@ elif insert_mode:
     root.title("TEKKEN Frame Data Visualizer (Insertion Sort Mode)")
 elif sicko_mode:
     root.title("TEKKEN Frame Data Visualizer (SICKO MODE!)")
+    heap_mode = True
 else:
     heap_mode = True
 
