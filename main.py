@@ -68,6 +68,16 @@ my_char.append(bryan.name)
 char_dict[bryan.name] = bryan
 file_reader(bryan, "bryan.csv")
 
+dragunov = Character("Dragunov")
+my_char.append(dragunov.name)
+char_dict[dragunov.name] = dragunov
+file_reader(dragunov, "dragunov.csv")
+
+eddy = Character("Eddy")
+my_char.append(eddy.name)
+char_dict[eddy.name] = eddy
+file_reader(eddy, "eddy.csv")
+
 hwoarang = Character("Hwoarang")
 my_char.append(hwoarang.name)
 char_dict[hwoarang.name] = hwoarang
@@ -107,6 +117,11 @@ lee = Character("Lee")
 my_char.append(lee.name)
 char_dict[lee.name] = lee
 file_reader(lee, "lee.csv")
+
+marduk = Character("Marduk")
+my_char.append(marduk.name)
+char_dict[marduk.name] = marduk
+file_reader(marduk, "marduk.csv")
 
 nina = Character("Nina")
 my_char.append(nina.name)
