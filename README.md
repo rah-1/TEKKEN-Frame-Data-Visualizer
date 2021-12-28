@@ -4,7 +4,7 @@
 <br/>
   
 *** __Goal__ ***  
-This project aims to solve the ongoing issue of the difficulty in understanding frame data in the video game TEKKEN 7 
+This project aims to solve the ongoing issue of understanding frame data in the video game TEKKEN 7 
 by using an interactive GUI that presents the necessary information in a user-friendly manner.    
   <br/>
   
