@@ -58,6 +58,16 @@ def file_reader(character, filename):
             line_count += 1
 
 
+akuma = Character("Akuma")
+my_char.append(akuma.name)
+char_dict[akuma.name] = akuma
+file_reader(akuma, "akuma.csv")
+
+alisa = Character("Alisa")
+my_char.append(alisa.name)
+char_dict[alisa.name] = alisa
+file_reader(alisa, "alisa.csv")
+
 armor_king = Character("Armor King")
 my_char.append(armor_king.name)
 char_dict[armor_king.name] = armor_king
@@ -67,6 +77,11 @@ bryan = Character("Bryan")
 my_char.append(bryan.name)
 char_dict[bryan.name] = bryan
 file_reader(bryan, "bryan.csv")
+
+claudio = Character("Claudio")
+my_char.append(claudio.name)
+char_dict[claudio.name] = claudio
+file_reader(claudio, "claudio.csv")
 
 dragunov = Character("Dragunov")
 my_char.append(dragunov.name)
