@@ -1,16 +1,16 @@
-# TEKKEN 7 Frame Data Visualizer
+# TEKKEN 7 Frame Data Visualizer 
 1st Place Winner for Best Project in DSA (Spring 2021)  
 [YouTube] https://youtu.be/gzzWb-8H6vg  
 <br/>
   
 *** __Goal__ ***  
-This project aims to solve the ongoing issue of the difficulty in understanding frame data in the video game TEKKEN 7 
+This project aims to solve the ongoing issue of understanding frame data in the video game TEKKEN 7 
 by using an interactive GUI that presents the necessary information in a user-friendly manner.    
   <br/>
   
 *** __Setup__ ***  
 To use the TEKKEN Frame Data Visualizer interface, you will need to download all files in the repository.
-Make sure all files are located in the same folder. Then, execute ```main.py```.  
+Make sure all files are located in the same directory. Then, run ```main.py``` using your preferred Python compiler.  
   <br/>  
 
 *** __Navigation__ ***  
