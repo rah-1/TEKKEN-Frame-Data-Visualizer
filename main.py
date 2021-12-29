@@ -68,10 +68,25 @@ my_char.append(alisa.name)
 char_dict[alisa.name] = alisa
 file_reader(alisa, "alisa.csv")
 
+anna = Character("Anna")
+my_char.append(anna.name)
+char_dict[anna.name] = anna
+file_reader(anna, "anna.csv")
+
 armor_king = Character("Armor King")
 my_char.append(armor_king.name)
 char_dict[armor_king.name] = armor_king
 file_reader(armor_king, "armor_king.csv")
+
+asuka = Character("Asuka")
+my_char.append(asuka.name)
+char_dict[asuka.name] = asuka
+file_reader(asuka, "asuka.csv")
+
+bob = Character("Bob")
+my_char.append(bob.name)
+char_dict[bob.name] = bob
+file_reader(bob, "bob.csv")
 
 bryan = Character("Bryan")
 my_char.append(bryan.name)
