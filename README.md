@@ -13,16 +13,20 @@ To use the TEKKEN Frame Data Visualizer interface, you will need to download all
 Make sure all files are located in the same directory. Then, run ```main.py``` using your preferred Python compiler.  
   <br/>  
 
-*** __Navigation__ ***  
+*** __Usage__ ***  
 To maximize the interface's use, ensure you follow the steps below.
 - You will need to first choose your character and the opponent's character from the dropdown menus.
 - To find the properties of a given move, find and click the notation of the move in the moveset listbox.
 - Adjust your character's *frame advantage* accordingly using the slider at the top of the interface.
 - Press the respective buttons to calculate the subset of your opponents moves that your selected move
   *wins against*, *trades with*, or *loses to*, sorted ascendingly in order of *startup frames*.
-- For more immersion, you can modify the sort method from the default *heap sort* [O(nlogn)] to *insertion sort* [O(n<sup>2</sup>)]
+- For more immersion, you can modify the sort method from the default *heap sort* [O(n·logn)] to *insertion sort* [O(n<sup>2</sup>)]
   by changing the true/false values of the respective boolean variables in the first few lines of ```main.py```.  
     <br/>
+ 
+<p align="center">
+  <img src="demo.gif" >
+</p>
     
 *** __Additional Resources__ ***  
 Check out these videos for a more in-depth explanation on TEKKEN fundamentals and frame data:  
