@@ -10,7 +10,7 @@ by using an interactive GUI that presents the necessary information in a user-fr
   
 *** __Setup__ ***  
 To use the TEKKEN Frame Data Visualizer interface, you will need to download all files in the repository.
-Make sure all files are located in the same directory. Then, run ```main.py``` using your preferred Python compiler.  
+Make sure all files are located in the same directory. Then, run ```main.py``` using Python 3.  
   <br/>  
 
 *** __Usage__ ***  
