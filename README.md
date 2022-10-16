@@ -15,7 +15,7 @@ Make sure all files are located in the same directory. Then, run ```main.py``` u
 
 *** __Usage__ ***  
 To maximize the interface's use, ensure you follow the steps below.
-- You will need to first choose your character and the opponent's character from the dropdown menus.
+- You will first need to choose your character and the opponent's character from the dropdown menus.
 - To find the properties of a given move, find and click the notation of the move in the moveset listbox.
 - Adjust your character's *frame advantage* accordingly using the slider at the top of the interface.
 - Press the respective buttons to calculate the subset of your opponents moves that your selected move
